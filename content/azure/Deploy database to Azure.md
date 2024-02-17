@@ -1,3 +1,6 @@
+---
+title: How to deploy database to Azure?
+---
 # How to deploy database to Azure?
 
 1. From your Azure portal, click 'create a resource'.
@@ -18,7 +21,7 @@ spring:
       ansi:
         enabled: always
   datasource:
-    url: jdbc:postgresql://finance-manager.postgres.database.azure.com:5432/name-of-your-database
+    url: jdbc:postgresql://[your-app-name].postgres.database.azure.com:5432/[name-of-your-database]
     username: [add-user]
     password: [add-password]
   jpa:
