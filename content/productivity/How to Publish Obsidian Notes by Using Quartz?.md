@@ -38,7 +38,7 @@ git push
 ```
 
 > [!note] Note:
-When you have a content that you want to publish, run `./publish-content.sh`. 
+> When you have a content that you want to publish, run `./publish-content.sh`. 
 
 2. Create `sync-content.sh` file one level outside the repo. The content of the file should copy from the Obsidian folder, and replace the content in this repo.
 ```sh
