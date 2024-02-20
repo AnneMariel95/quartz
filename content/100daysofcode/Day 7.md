@@ -1,0 +1,1 @@
+✅ Completed Week 1 of #100DaysOfCode! Just updated my project board 📋, outlining goals for the upcoming week. Priority: User creation. Channeling my efforts into strengthening the app's backbone, with a backend focus ahead. Also today, I did some refactoring and made progress with the same Spring and Hibernate course.
