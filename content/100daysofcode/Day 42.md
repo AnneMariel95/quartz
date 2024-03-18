@@ -1,0 +1,1 @@
+Day 42 of #100DaysOfCode: Today was all about mini exercises. As for my finance manager app, I am working on improving the transaction page. Tune in!

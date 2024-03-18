@@ -1,0 +1,1 @@
+Day 39 of #100DaysOfCode. It’s another Saturday which means I had to navigate work-life harmony! After attending two birthday parties, I have started working on the finance manager’s dashboard. Still on the lookout for inspiration so any ideas from you all will be greatly appreciated.
