@@ -1,0 +1,2 @@
+🚀 Day 59 of #100DaysOfCode 🚀  
+Today, I deepened my knowledge of Spring Security configurations, particularly integrating JDBC for user management and refining access control based on HTTP methods and roles. These enhancements ensure a more flexible security setup for an application.

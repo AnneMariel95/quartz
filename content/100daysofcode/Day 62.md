@@ -1,0 +1,1 @@
+Day 62 of #100DaysOfCode. I explored Thymeleaf, a powerful template engine for Java-based web applications.

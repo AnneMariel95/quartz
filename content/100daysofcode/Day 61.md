@@ -1,0 +1,1 @@
+On Day 61 of #100DaysOfCode, I'm progressing through a Spring, Spring Boot, and Hibernate course. Initially, I utilized Postgres and PGAdmin for my database setup. Today, I've migrated the data to MySQL, the original choice in the tutorial, and I'm now utilizing DBeaver for management.
